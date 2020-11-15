@@ -49,7 +49,7 @@
       "chainId": 1,
       "name": "DFOHub BUIDL",
       "symbol": "BUIDL",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada",
@@ -64,7 +64,7 @@
       "chainId": 1,
       "name": "Small Love Potion",
       "symbol": "SLP",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
